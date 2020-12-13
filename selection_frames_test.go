@@ -6,9 +6,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	. "github.com/sclevine/agouti"
-	"github.com/sclevine/agouti/api"
-	. "github.com/sclevine/agouti/internal/matchers"
-	"github.com/sclevine/agouti/internal/mocks"
+	"github.com/andress134/agouti/api"
+	. "github.com/andress134/agouti/internal/matchers"
+	"github.com/andress134/agouti/internal/mocks"
 )
 
 var _ = Describe("Selection Frames", func() {
