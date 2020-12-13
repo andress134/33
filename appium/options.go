@@ -1,6 +1,6 @@
 package appium
 
-import "github.com/sclevine/agouti"
+import "github.com/andress134/agouti"
 
 type Option func(*config)
 
